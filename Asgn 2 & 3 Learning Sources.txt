@@ -1,0 +1,14 @@
+Assignment 2 and 3 have been uploaded to the CSE Moodle. Please adhere to the deadline and also follow the submission guidelines properly. In case of any doubt, please reach out to us.
+
+Also, please find the below links for ease of solving the problems (these are just for indicative purposes; there are lots of other nice tutorials available over the internet).
+
+Word2Vec/Glove: https://edumunozsala.github.io/BlogEms/jupyter/nlp/classification/embeddings/python/2020/08/15/Intro_NLP_WordEmbeddings_Classification.html
+
+RNN: https://regenerativetoday.com/implementation-of-simplernn-gru-and-lstm-models-in-keras-and-tensorflow-for-an-nlp-project/
+https://medium.com/@prateekgaurav/nlp-zero-to-hero-part-2-vanilla-rnn-lstm-gru-bi-directional-lstm-77fd60fc0b44#:~:text=Sentiment%20Analysis%20Model%20using%20Vanilla%20RNN&text=In%20the%20context%20of%20sentiment,and%20the%20previous%20hidden%20state.
+
+Bert: https://jalammar.github.io/illustrated-bert/
+https://luv-bansal.medium.com/fine-tuning-bert-for-text-classification-in-pytorch-503d97342db2
+https://github.com/huggingface/notebooks/blob/main/examples/text_classification.ipynb
+
+Flan-T5 & QLoRA/LoRA: Already mentioned in the assignment document.

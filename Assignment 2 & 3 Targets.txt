@@ -1,0 +1,11 @@
+Assignment 2:
+1. W2V+NN
+2. RNN
+3. Bert
+
+download GoogleNews-vectors-negative300.bin
+
+Assignment 3:
+1. Zero shot prompting
+2. Few shot prompting
+3. Finetune LLM using PEFT & QLoRA/LoRA
